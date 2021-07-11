@@ -1,0 +1,14 @@
+{
+  "name": "com.waterkat.core",
+  "version": "0.1.0",
+  "displayName": "WaterKat Core Tool Library",
+  "description": "This package provides core elements for the WaterKat Library",
+  "unity": "2021.1",
+  "type": "library",
+  "author": 
+  {
+    "name": "Jacob Vallecillo",
+    "email": "waterkatgames@gmail.com",
+    "url": "waterkatgames.com"
+  }
+}
