@@ -4,7 +4,9 @@
   "displayName": "WaterKat Core Tool Library",
   "description": "This package provides core elements for the WaterKat Library",
   "unity": "2021.1",
-  "type": "library",
+  "type": "library",  
+  "enableLockFile": true,
+  "resolutionStrategy": "highest",
   "author": 
   {
     "name": "Jacob Vallecillo",
