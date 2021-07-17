@@ -1,0 +1,18 @@
+using UnityEditor;
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+[CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "WaterKat/#SCRIPTNAME#", order = -950)]
+public class #SCRIPTNAME# : ScriptableObject
+{
+    void OnEnable()
+    {
+    #NOTRIM#
+    }
+
+    void OnDisable()
+    {
+    #NOTRIM#
+    }
+}
+#ROOTNAMESPACEEND#
