@@ -1,6 +1,6 @@
 {
     "name": "com.waterkat.core",
-    "rootNamespace": "WaterKat.Core",
+    "rootNamespace": "WaterKat",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

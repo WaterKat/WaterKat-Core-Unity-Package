@@ -2,7 +2,7 @@ using UnityEditor;
 using UnityEngine;
 using System.IO;
 
-namespace WaterKat.Core
+namespace WaterKat
 {
     public class WaterkatCoreEditorWindow : EditorWindow
     {
