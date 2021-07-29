@@ -1,0 +1,18 @@
+{
+    "name": "com.waterkat.core.editor",
+    "rootNamespace": "WaterKat",
+    "references": [
+        "GUID:7fd4b516bc4dd934c92b4ad149d46f04"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
